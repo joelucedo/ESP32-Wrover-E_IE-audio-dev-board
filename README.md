@@ -10,6 +10,7 @@ Documentation about FAUST and ESP32  : https://faustdoc.grame.fr/tutorials/esp32
 * Audio codec : WM8978 (differential mic inputs - line in - aux - line out - speaker out - headphone)
 * MIDI support : in, out, thru
 * 16x IO multiplexer
+* 2x27 header (exposed : all audio codec IO, all mux IO, MIDI interface, 4 MCU inputs, VCC and GND)
 * Micro sd socket
 
 ## Drivers and libraries
