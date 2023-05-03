@@ -2,7 +2,7 @@
 
 I designed this board to play with FAUST sound synthesis language.
 
-Documentation about FAUST and ESP32  : https://faustdoc.grame.fr/tutorials/esp32/ / https://faust.grame.fr/
+Documentation about FAUST and ESP32  : https://faustdoc.grame.fr/tutorials/esp32/ - https://faust.grame.fr/
 
 ## Specs and features
 
