@@ -19,4 +19,3 @@ Tested with ~~ESP-IDF~~ ESP32 Arduino core.
 * MUX   : https://github.com/waspinator/CD74HC4067
 * SD    : https://github.com/espressif/arduino-esp32/tree/master/libraries/SD 
 * CODEC : https://faustdoc.grame.fr/tutorials/esp32/
-
