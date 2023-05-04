@@ -19,4 +19,4 @@ Tested with ~~ESP-IDF~~ ESP32 Arduino core.
 * MIDI  : https://github.com/FortySevenEffects/arduino_midi_library
 * MUX   : https://github.com/waspinator/CD74HC4067
 * SD    : https://github.com/espressif/arduino-esp32/tree/master/libraries/SD 
-* CODEC : https://faustdoc.grame.fr/tutorials/esp32/
+* CODEC & AUDIO DSP : https://faustdoc.grame.fr/tutorials/esp32/
