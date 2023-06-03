@@ -1,4 +1,5 @@
 # ESP32-Wrover-E_IE-audio-dev-board
+![Audio board](https://github.com/joelucedo/ESP32-Wrover-E_IE-audio-dev-board/assets/132199473/eb7ee59e-e4c0-40c7-b6bf-f665af3b6b8c)
 
 I designed this board to play with FAUST sound synthesis language.
 
